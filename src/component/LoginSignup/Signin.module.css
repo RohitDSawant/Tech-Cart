@@ -1,0 +1,16 @@
+.hr{
+    width: 255px;
+    margin: -5px;
+    gap: 15px;
+}
+.or{
+    margin-top: -18px;
+    font-size: large;
+}
+
+.hovereffect:hover{
+    transform: scale(1.2);
+    transition-duration: 0.7s;
+    cursor: pointer;
+    color: #1b7dfd;
+  }
