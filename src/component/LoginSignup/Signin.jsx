@@ -43,19 +43,25 @@ function Signin() {
     })
       .then((res) => {
         console.log(res.data);
-        localStorage.setItem("token", res.data.token);
-        setLogin(true);
-        setTimeout(() => {
-          setLogin(false);
-          navigate("/");
-        }, 3000);
+        if (
+          res.data ===
+          "Login Failed. Please enter correct Email ID and Password...."
+        ) {
+          setshow(true);
+          setTimeout(() => {
+            setshow(false);
+          }, 3000);
+        } else {
+          localStorage.setItem("token", res.data.token);
+          setLogin(true);
+          setTimeout(() => {
+            setLogin(false);
+            navigate("/");
+          }, 3000);
+        }
       })
       .catch((err) => {
         console.log(err);
-        setshow(true);
-        setTimeout(() => {
-          setshow(false);
-        }, 3000);
       });
   }
 
