@@ -25,7 +25,7 @@ const End = () => {
       // setSeconds(second)
       setRedirect(`Redirecting to 🏠`)
 
-    }, 4000);
+    }, 3000);
 
 
     setTimeout(() => {
