@@ -1,6 +1,9 @@
 
 # Techcart Website
 
+# Live  ➡   https://tech-cart-frontend.vercel.app/
+
+
 ![image](https://user-images.githubusercontent.com/91751062/202104887-c495ea37-1176-4847-8f86-21077cddc6bf.png) 
 
 What is this? ☝️ 
@@ -35,30 +38,19 @@ What is this? ☝️
 <h2>Frontend</h2> 
 
 ⚡️ React 
-</br> 
-
-⚡️ Chakra-Ui 
-</br> 
-
+⚡️ Chakra-UI
 ⚡️ JavaScript 
-</br> 
+⚡️ CSS
 
-⚡️ CSS 
 </br> 
 
 <h2>Backend</h2> 
 
 ⚡️ Node Js 
-</br>
-
-⚡️ Express 
-</br>
-
+⚡️ Express Js
 ⚡️ MongoDB 
+
 </br> 
 
-
-
-
-
-# Demo Link ➡  https://tech-cart-frontend.vercel.app/
+#
+# Backend Codebase Link ➡  https://github.com/RohitDSawant/geekBuying
