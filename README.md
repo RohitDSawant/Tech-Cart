@@ -1,7 +1,8 @@
 
 # Techcart Website
 
-# Live  ➡   https://tech-cart-frontend.vercel.app/
+# Live  
+➡  https://tech-cart-frontend.vercel.app/
 
 
 ![image](https://user-images.githubusercontent.com/91751062/202104887-c495ea37-1176-4847-8f86-21077cddc6bf.png) 
@@ -53,4 +54,5 @@ What is this? ☝️
 </br> 
 
 #
-# Backend Codebase Link ➡  https://github.com/RohitDSawant/geekBuying
+# Backend Codebase Link
+➡  https://github.com/RohitDSawant/geekBuying
