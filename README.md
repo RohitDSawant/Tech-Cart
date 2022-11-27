@@ -1,16 +1,16 @@
 
-# Techcart Website
-<br/>
+# GeekBuying- Clone (TechCart)
 
-# Live  
-➡  https://tech-cart-frontend.vercel.app/
-<br/>
+## Live  ➡  https://tech-cart-frontend.vercel.app/
+
+</br>
 
 ![image](https://user-images.githubusercontent.com/91751062/202104887-c495ea37-1176-4847-8f86-21077cddc6bf.png) 
+</br>
 
-What is this? ☝️ 
+## What is TechCart? ☝️ 
 
-</br> Techcart is leading E-commerce platforms selling a wide range of consumer electronic gadgets. Anyone can buy product from the techkart with fast global shipping! This was a collabartive project with 5 team members successfully completed in 5 days. 
+</br> Techcart is leading E-commerce platforms selling a wide range of consumer electronic gadgets. Anyone can buy product from the TechCart with fast global shipping! This was a collabartive project with 5 team members successfully completed in 5 days. 
 
 </br> 
 
@@ -34,8 +34,10 @@ What is this? ☝️
 
 ⚡️ Add to Cart & Payment Gateway page 
 </br> 
+</br>
 
 # 🎯 Tech-Stacks 
+</br>
 
 <h2>Frontend</h2> 
 
@@ -44,16 +46,12 @@ What is this? ☝️
 ⚡️ JavaScript 
 ⚡️ CSS
 
-</br> 
-
 <h2>Backend</h2> 
 
 ⚡️ Node Js 
 ⚡️ Express Js
 ⚡️ MongoDB 
 
-</br> 
-
-#
+</br>
 # Backend Codebase Link
 ➡  https://github.com/RohitDSawant/geekBuying
